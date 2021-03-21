@@ -171,7 +171,7 @@ export default class Timer extends Component {
                 Start Long Break: <kbd>Alt</kbd> + <kbd>l</kbd>
               </li>
               <li>
-                Start Short Break: <kbd>Alt</kbd> + <kbd>s</kbd>
+                Start Short Breaksdsds: <kbd>Alt</kbd> + <kbd>s</kbd>
               </li>
               <li>
                 Reset Timer: <kbd>Alt</kbd> + <kbd>r</kbd>
