@@ -168,7 +168,8 @@ export default class Timer extends Component {
                 Start Pomodoro: <kbd>Alt</kbd> + <kbd>p</kbd>
               </li>
               <li>
-                Start Long Break: <kbd>Alt</kbd> + <kbd>l</kbd>
+                Start Long Break: dfgkfo dfogk fpog kdfo gkdfp kgdp odkfp gkd
+                odpf gk dofkg p <kbd>Alt</kbd> + <kbd>l</kbd>
               </li>
               <li>
                 Start Short Breaksdsds: <kbd>Alt</kbd> + <kbd>s</kbd>
