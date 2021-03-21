@@ -162,7 +162,7 @@ export default class Timer extends Component {
             <h3>Shortcuts</h3>
             <ul>
               <li>
-                Pause/Play : <kbd>Space</kbd>
+                Pause/Play : <kbd>Spaceee</kbd>
               </li>
               <li>
                 Start Pomodoro: <kbd>Alt</kbd> + <kbd>p</kbd>
